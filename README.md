@@ -3,11 +3,12 @@
 ## 🔧 Features
 
 - 📚 **Book Catalog**: Browse through a wide variety of books.
-- 🔍 **Search Functionality**: Search for books by title, author, or genre.
-- 🔑 **User Accounts**: Sign up, log in, and manage user profiles.
-- 🛒 **Shopping Cart**: Add books to the cart and manage quantities.
-- ⚖️ **Checkout**: Secure payment gateway for purchasing books.
-- 🔒 **Admin Panel**: Manage books, orders, and users.
+- 🛠️ **Services**: Discover the range of services provided to enhance your reading experience.
+- ℹ️ **About Us**: Learn more about our mission, vision, and the team behind the bookstore.
+- 🌟 **Featured Books**: Explore our handpicked selection of popular and recommended reads.
+- 🆕 **New Arrivals**: Stay updated with the latest additions to our bookstore collection.
+- 💬 **Customer Reviews**: See what our readers are saying about their experiences.
+- 📝 **Our Blogs**: Dive into our curated blog section for reading tips, reviews, and more.
 
 ## 📊 Technologies Used
 
@@ -36,22 +37,22 @@ Take a visual tour of the Bookstore Website:
 - **Homepage:** The elegant landing page gives users a welcoming first impression.
   ![Screenshot 2024-12-15 080122](https://github.com/user-attachments/assets/b5e807af-0081-49cf-8814-03306afbb757)
 
-- **Book Details:** Explore in-depth details about each book to make informed choices.
+- **Services:** Discover the range of services provided to enhance your reading experience.
   ![Screenshot 2024-12-15 080146](https://github.com/user-attachments/assets/429980d6-9c85-4837-9495-4e077150f2a9)
 
-- **Search Results:** Quickly find your desired books with an intuitive search interface.
+- **About Us:** Learn more about our mission, vision, and the team behind the bookstore.
   ![Screenshot 2024-12-15 080221](https://github.com/user-attachments/assets/826d508f-4cc2-4460-8cd0-e387d84807da)
 
-- **Shopping Cart:** View and manage the books you’re ready to purchase.
+- **Featured Books:** Explore our handpicked selection of popular and recommended reads.
   ![Screenshot 2024-12-15 080249](https://github.com/user-attachments/assets/8643cec4-a033-4bca-97d7-572f4258800b)
 
-- **Checkout:** Enjoy a seamless and secure purchasing experience.
+- **New Arrivals:** Stay updated with the latest additions to our bookstore collection.
   ![Screenshot 2024-12-15 080313](https://github.com/user-attachments/assets/6ec25277-643d-48f2-b1ba-b2b7b8fbb86d)
 
-- **Admin Panel:** Manage your bookstore efficiently with powerful tools.
+- **Customer Reviews:** See what our readers are saying about their experiences.
   ![Screenshot 2024-12-15 080340](https://github.com/user-attachments/assets/930a84f6-d257-4c20-af57-ff4d329fbd1b)
 
-- **Responsive Design:** The website is fully responsive, ensuring a smooth experience on all devices.
+- **Our Blogs:** Dive into our curated blog section for reading tips, reviews, and more.
   ![Screenshot 2024-12-15 080405](https://github.com/user-attachments/assets/e6c697fb-ba13-4dc3-9df5-100735a28026)
 
 ## 🚀 Contributing
