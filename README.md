@@ -57,6 +57,7 @@ Take a visual tour of the Bookstore Website:
   ![Screenshot 2024-12-15 080405](https://github.com/user-attachments/assets/e6c697fb-ba13-4dc3-9df5-100735a28026)
 
 - **Login:** Securely access and manage your account.
+  
   ![Screenshot 2024-12-15 082603](https://github.com/user-attachments/assets/d067abb6-7380-4154-8bdb-8db3779b99a9)
 
 ## 🚀 Contributing
