@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+     body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0; /* Lighter background color for contrast */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Full screen height */
+        margin: 0;
+        padding: 0;
+    }
+
+    .login-container {
+        background-color: #ffffff; /* White background for the form */
+        padding: 1.5rem; /* Adjusted padding for better spacing */
+        border-radius: 10px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* More prominent shadow */
+        width: 100%;
+        max-width: 280px; /* Reduced max-width for a smaller form */
+        height: auto;
+        box-sizing: border-box; /* Ensure padding is included in the width */
+        display: flex;
+        flex-direction: column;
+        justify-content: center; /* Center content vertically */
+        align-items: center; /* Center content horizontally */
+    }
+
+    .login-container h1 {
+        text-align: center;
+        color: #3e9a9a; /* Blue color for header */
+        margin-bottom: 1rem; /* Reduced margin below the header */
+        font-size: 1.4rem; /* Smaller font size for the heading */
+    }
+
+    .input-group {
+        margin-bottom: 1rem; /* Slightly reduced space between inputs */
+        width: 100%; /* Ensure inputs take full width */
+    }
+
+    .input-group label {
+        display: block;
+        margin-bottom: 0.4rem; /* Reduced space between label and input */
+        font-weight: bold;
+        color: #333; /* Darker text for labels */
+    }
+
+    .input-group input {
+        width: 100%;
+        padding: 0.5rem; /* Reduced padding for more compact input fields */
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+        font-size: 0.9rem; /* Smaller font size for input */
+        transition: border-color 0.3s ease, border-width 0.3s ease; /* Smooth transition for border thickness */
+    }
+
+    .input-group input:focus {
+        border-color: #3e9a9a; /* Change border color on focus */
+        border-width: 2px; /* Increase border thickness on focus */
+        outline: none;
+    }
+
+    button {
+        width: 50%; /* Set the button width to 50% of the form width */
+        padding: 0.6rem; /* Smaller padding for the button */
+        background-color: #4a3a88; /* Slightly darker blue for button */
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 1rem; /* Font size for the button */
+        transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+        margin-top: 1rem; /* Space above the button */
+        align-self: center; /* This makes sure the button is centered */
+        margin: 0 auto; /* Adjusted to give space at the top and bottom of the button */
+        display: block;
+    }
+
+    button:hover {
+        background-color: #60ad88; /* Darker shade on hover */
+    }
+
+
+    p {
+        text-align: center;
+        margin-top: 1rem; /* Reduced space for paragraph */
+    }
+
+    p a {
+        color: #4a7ab7; /* Matching link color with button */
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    p a:hover {
+        text-decoration: underline; /* Underline on hover for clarity */
+    }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <h1>Login</h1>
+        <form>
+            <div class="input-group">
+                <label for="username">Username</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <button type="submit">Login</button>
+            <p>Don't have an account?<br> <a href="register.html">Register here</a></p>
+        </form>
+    </div>
+</body>
+</html>
